@@ -27,7 +27,7 @@ This project demonstrates basic CRUD operations (Create, Read, Update, Delete) u
 Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/django-crud-operations.git
+   git clone https://github.com/Rohit10jr/django-crud-operations.git
 
 ## Usage
 
